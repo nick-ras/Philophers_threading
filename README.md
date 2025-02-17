@@ -46,4 +46,4 @@ make
    Commandline execution and arguments is as following: ./philo <number_of_philosophers> <time_to_die> <time_to_eat> <time_to_sleep>
    For example:
    ```bash
-  ./philo 5 800 200 200
+   ./philo 5 800 200 200
